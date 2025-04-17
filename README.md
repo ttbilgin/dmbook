@@ -1,7 +1,7 @@
 # Comprehensive Data Mining Course Content
 
 ## 1. Introduction to Data Mining
-1.1. What Is Data Mining?
+### 1.1. What Is Data Mining?
 1.2. Data Mining: An Essential Step in Knowledge Discovery
 1.3. Motivating Challenges
 1.4. The Origins of Data Mining
