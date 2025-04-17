@@ -12,9 +12,9 @@
 1.9. Data Mining and Society
 
 ## 2. Data, Measurements, and Preprocessing
-2.1. Types of Data
-   2.1.1. Attributes and Measurement
-   2.1.2. Types of Data Sets
+### 2.1. Types of Data
+#### 2.1.1. Attributes and Measurement
+#### 2.1.2. Types of Data Sets
 2.2. Statistics of Data
 2.3. Data Quality
    2.3.1. Measurement and Data Collection Issues
